@@ -21,3 +21,17 @@ PATH=$PATH:$HOME/bin:$JAVA_HOME:$M2:$M2_HOME
 export PATH
 
 
+
+
+
+
+
+	<plugin>
+           <groupId>org.apache.maven.plugins</groupId>
+           <artifactId>maven-war-plugin</artifactId>
+           <version>3.4.0</version>
+        </plugin>
+
+
+
+
